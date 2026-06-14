@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { HiOutlineMenuAlt3 } from "react-icons/hi";
-import logo from "./assets/logo.png";
+import logo from "./assets/Logo.png";
 
 export default function Navbar() {
   return (
