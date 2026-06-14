@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 
-import room1 from "./assets/room1.jpeg";
-import room2 from "./assets/room2.jpeg";
-import room3 from "./assets/room3.jpeg";
-import room4 from "./assets/room4.jpeg";
+import room1 from "./assets/Room1.jpeg";
+import room2 from "./assets/Room2.jpeg";
+import room3 from "./assets/Room3.jpeg";
+import room4 from "./assets/Room4.jpeg";
 
 const rooms = [
   {
